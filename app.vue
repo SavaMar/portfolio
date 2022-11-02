@@ -1,0 +1,10 @@
+<template>
+  <div>
+    <!-- <NuxtWelcome /> -->
+    <p class="text-sky-400/100">The quick brown fox...</p>
+    <p class="text-sky-400/75">The quick brown fox...</p>
+    <p class="text-sky-400/50">The quick brown fox...</p>
+    <p class="text-sky-400/25">The quick brown fox...</p>
+    <p class="text-sky-400/0">The quick brown fox...</p>
+  </div>
+</template>
