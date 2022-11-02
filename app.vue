@@ -111,7 +111,7 @@ const setColorTheme = (newTheme: Theme) => {
       class="grid justify-items-center flex h-full items-top dark:bg-slate-900"
     >
       <div class="text-9xl mt-16 dark:text-white">
-        <h1>Nuxt Dark Mode Experement</h1>
+        <h1>Darova Evgeniy :)</h1>
       </div>
     </div>
   </div>
